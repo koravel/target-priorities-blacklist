@@ -1,0 +1,9 @@
+{
+  "name": "target-priorities-blacklist",
+  "version": "1.0.0",
+  "title": "Target Priorities Blacklist",
+  "author": "Koravel",
+  "factorio_version": "2.0",
+  "description": "Allows you to exclude certain enemies from turret targeting.",
+  "dependencies": ["base>=2.0.0"]
+}
